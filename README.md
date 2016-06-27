@@ -2,11 +2,11 @@
 
 Simple usage:
 
-   zonemaster-nagios.pl -d blipp.com
+    zonemaster-nagios.pl -d blipp.com
 
 or
 
-   zonemaster-nagios.pl -v -v -d blipp.com
+    zonemaster-nagios.pl -v -v -d blipp.com
 
 for increased verbosity.
 
